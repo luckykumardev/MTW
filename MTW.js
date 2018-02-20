@@ -21,6 +21,7 @@
        {
            text = document.getElementById("userInput").value;
        }
+ 
 
             if(FR_LN == "Afrikaans"){ FR_LN = "af" };
             if(FR_LN == "Albanian "){ FR_LN = "sq" };
